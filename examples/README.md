@@ -21,20 +21,20 @@ the following collection of examples have been prepared.
 
 - [**Constraints with Cannon**](constraints.html)  
   Demonstration of many
-  [Cannon driver constraints](/README.md#constraint) including cone twist,
+  [Cannon driver constraints](../README.md#constraint) including cone twist,
   hinge, lock, point to point, and distance constraints.
 
 - [**Materials**](materials.html)  
   Bounce simulation with
-  [restitution (bounciness)](/README.md#system-configuration) of 1 using the
+  [restitution (bounciness)](../README.md#system-configuration) of 1 using the
   Cannon driver.
 
 - [**Spring**](spring.html)  
-  Four vertical [springs](/README.md#spring) each between two boxes with an
+  Four vertical [springs](../README.md#spring) each between two boxes with an
   assortment of damping and stiffness values using the Cannon driver.
 
 - [**Stress**](stress.html)  
-  Apply [strong impulse](/README.md#using-the-cannonjs-api) to a cube when the
+  Apply [strong impulse](../README.md#using-the-cannonjs-api) to a cube when the
   user clicks with a mouse using the Cannon driver. Cubes are arranged in four
   4x3 walls.
 
@@ -43,5 +43,5 @@ the following collection of examples have been prepared.
   using the velocity component and the Cannon driver.
 
 - [**Time to live**](ttl.html)  
-  Remove a [dynamic body](README.md#dynamic-body-and-static-body) from the
+  Remove a [dynamic body](../README.md#dynamic-body-and-static-body) from the
   scene after 100 frames using the Cannon driver.
