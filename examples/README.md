@@ -4,19 +4,19 @@ To help demonstrate the features and capabilities of `aframe-physics-system`
 the following collection of examples have been prepared.
 
 - [**Ammo sandbox**](ammo.html)  
-  Demonstration of many [Ammo driver](/AmmoDriver.md) features in a single
+  Demonstration of many [Ammo driver](../AmmoDriver.md) features in a single
   example.
 
 - [**Cannon.js sandbox**](cannon.html)  
   Demonstration of many Cannon driver features in a single example.
 
 - [**Compound**](compound.html)  
-  Construct a [compound shape](/README.md#shape) and simulate collision with
+  Construct a [compound shape](../README.md#shape) and simulate collision with
   a ground plane using the Cannon driver.
 
 - [**Constraints with Ammo**](constraints-ammo.html)  
   Demonstration of many
-  [Ammo driver constraints](/AmmoDriver.md#ammo-constraint) including cone
+  [Ammo driver constraints](../AmmoDriver.md#ammo-constraint) including cone
   twist, hinge, lock, point to point, and slider constraints.
 
 - [**Constraints with Cannon**](constraints.html)  
