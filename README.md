@@ -1,7 +1,7 @@
 # Physics for A-Frame VR
 
 [![Latest NPM release](https://img.shields.io/npm/v/aframe-physics-system.svg)](https://www.npmjs.com/package/aframe-physics-system)
-![Build]https://github.com/n5ro/aframe-physics-system/workflows/Build%20distribution/badge.svg)
+![Build](https://github.com/n5ro/aframe-physics-system/workflows/Build%20distribution/badge.svg)
 ![Test](https://github.com/n5ro/aframe-physics-system/workflows/Browser%20testing%20CI/badge.svg)
 
 Components for A-Frame physics integration.
