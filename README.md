@@ -1,6 +1,7 @@
 # Physics for A-Frame VR
 
 [![Latest NPM release](https://img.shields.io/npm/v/aframe-physics-system.svg)](https://www.npmjs.com/package/aframe-physics-system)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/n5ro/aframe-physics-system/master/LICENSE)
 ![Build](https://github.com/n5ro/aframe-physics-system/workflows/Build%20distribution/badge.svg)
 ![Test](https://github.com/n5ro/aframe-physics-system/workflows/Browser%20testing%20CI/badge.svg)
 
