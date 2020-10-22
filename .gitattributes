@@ -1,2 +1,2 @@
-*.js  text
+dist/*.js  binary
 
